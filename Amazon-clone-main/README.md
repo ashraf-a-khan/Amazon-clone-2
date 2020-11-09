@@ -1,3 +1,7 @@
+# Deployed with firebase
+
+Please click here to checkout the amazon clone: [Click Me](https://challenge-7c513.web.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
