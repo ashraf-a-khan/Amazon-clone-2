@@ -30,7 +30,7 @@ function Home() {
         <div className="home__row">
           <Product
             id="4903850"
-            title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
+            title="New Apple Watch Series 6 (GPS, 40mm) - Blue Aluminum Case with Deep Navy Sport Band"
             price={199.99}
             rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/71bf9IpGjtL._AC_SL1500_.jpg"
