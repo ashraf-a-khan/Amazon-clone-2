@@ -1,7 +1,7 @@
 # View working gif
 
 <img src='https://recordit.co/HoQM2y1UzM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+[Click Me to view gif walkthrough](https://recordit.co/HoQM2y1UzM.gif)
 
 # Deployed with firebase
 
