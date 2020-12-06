@@ -1,3 +1,8 @@
+# View working gif
+
+<img src='https://recordit.co/HoQM2y1UzM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 # Deployed with firebase
 
 Please click here to checkout the amazon clone: [Click Me](https://challenge-7c513.web.app/)
